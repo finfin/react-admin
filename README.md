@@ -90,6 +90,8 @@ post.showView() // a showView displays one entry in full page - allows to displa
 ### Using browser package
 
 ``` sh
+make install
+make build
 make install-blog
 make run-blog
 ```
